@@ -1,0 +1,22 @@
+getActivity give me a new activity
+getActivity give me something to do
+getActivity what can I do in Somerville
+getActivity give me an activity
+getActivity give me an activity in Somerville
+getActivity where should I go
+getActivity an activity
+getActivity what can I do
+getActivity i am bored
+getActivity i am bored give me something to do
+getActivity what is there to do in somerville
+getActivity i want an activity
+getActivity activity
+getActivity give me activity
+
+HelpIntent help
+HelpIntent help me
+HelpIntent what can I ask you
+HelpIntent get help
+HelpIntent what commands can I ask
+HelpIntent what can you do
+HelpIntent what do you do

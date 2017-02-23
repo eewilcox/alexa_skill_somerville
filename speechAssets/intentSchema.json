@@ -1,0 +1,11 @@
+{
+  "intents": [
+    {
+      "intent": "getActivity"
+    },
+    {
+      "intent": "HelpIntent",
+      "slots": []
+    }
+  ]
+}
